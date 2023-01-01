@@ -1,4 +1,8 @@
 {
-    "home": "Home",
+    "README": {
+        "display": "hidden"
+    },
+    "home": "🏠 Home",
+    "rules": "📜 Rules",
     "rpg": "🎀 RPG"
 }
