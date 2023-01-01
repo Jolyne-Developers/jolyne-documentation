@@ -6,9 +6,8 @@ This is the documentation for Jolyne, a static site generator written in TypeScr
 
 If you want to help us, you can do it in many ways:
 
--   [Open an issue] if you find a bug or correct a mistake.
--   [Open a pull request] if you want to add or change something.
--   [Open a discussion] if you want to discuss something.
+-   [Open an issue](https://github.com/Jolyne-Developers/jolyne-documentation/issues) if you find a bug or correct a mistake.
+-   [Open a pull request](https://github.com/Jolyne-Developers/jolyne-documentation/pulls) if you want to add or change something.
 
 ## Sponsor
 
