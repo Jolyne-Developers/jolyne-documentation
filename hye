@@ -1,0 +1,25 @@
+# Food 
+
+<hr />
+
+## Food Use
+<hr />
+Food is very useful, they can help with two diffrent catagories.
+some for healing, some for stamina, or a mix of the two 
+to use an Food would type (<span className="font-bold text-jolyne">/items use<span)
+
+
+
+#### Food List:
+
+| Name | Use    
+| :---:   | :---: |
+| Pizza  | +75 health +20 stamina|
+|Salad Bow| +50 health +25 stamina|
+|Spaghetti Bowl| +200 health +15 stamina|
+|Ramen Bowl| +170 health +25 stamina|
+|Tonio's Special Recipe| +700 health +250 stamina|
+|Cola| +15 stamina|
+|Candy|	+5 Stamia|
+|Chocolate Bar| +10 stamina|
+|Sandwich| +10 health +10 stamina|
